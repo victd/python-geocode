@@ -8,6 +8,7 @@ gmaps = googlemaps.Client(key='Add Your Key here')
 geocode_result = gmaps.geocode('160055 Jordensen Dr, Mississauga, ON')
 
 # Look up an address with reverse geocoding
+# as usual, lattitude comes first, then longitude
 reverse_geocode_result = gmaps.reverse_geocode((43.674224, -79.801452))
 
 # Request directions via public transit
