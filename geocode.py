@@ -12,6 +12,7 @@ geocode_result = gmaps.geocode('160055 Jordensen Dr, Mississauga, ON')
 reverse_geocode_result = gmaps.reverse_geocode((43.674224, -79.801452))
 
 # Request directions via public transit
+# using public transit, test directions cross continent
 now = datetime.now()
 directions_result = gmaps.directions("Sydney Town Hall",
                                      "Parramatta, NSW",
