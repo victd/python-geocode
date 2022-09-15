@@ -2,6 +2,9 @@
 import googlemaps
 from datetime import datetime
 
+# just a note, for looking up directions the maps only consider commercial vehicles 
+# and no provision is made of yet for low bridge restrictions under 13 feet or 11 1/2 feet
+
 gmaps = googlemaps.Client(key='Add Your Key here')
 
 # Geocoding an address
