@@ -17,6 +17,9 @@ from datetime import datetime
 #         &key=YOUR_API_KEY&callback=initMap">
 # </script>
 
+# deployment from Castle is working around the clock to implement the hotfix
+# want to steer clear of American Thanksgiving
+
 
 gmaps = googlemaps.Client(key='Add Your Key here')
 
