@@ -20,6 +20,8 @@ from datetime import datetime
 # deployment from Castle is working around the clock to implement the hotfix
 # want to steer clear of American Thanksgiving
 
+# update, still needed to install runtimeInstaller in order for the maps to load
+
 
 gmaps = googlemaps.Client(key='Add Your Key here')
 
