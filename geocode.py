@@ -19,6 +19,7 @@ from datetime import datetime
 
 # deployment from Castle is working around the clock to implement the hotfix
 # want to steer clear of American Thanksgiving
+# connection libraries for python sql
 
 # update, still needed to install runtimeInstaller in order for the maps to load
 # when doing Route Modelling, the webView2 runs 6 instances with 1 instance of Trux open
