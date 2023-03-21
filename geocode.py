@@ -5,6 +5,8 @@ from datetime import datetime
 # just a note, for looking up directions the maps only consider commercial vehicles 
 # and no provision is made of yet for low bridge restrictions under 13 feet or 11 1/2 feet
 
+# implement GeoTab integration
+
 # the following code chooses which channel of the API to use: beta or weekly, quarterly... etc
 # <script async
 #    src="https://maps.googleapis.com/maps/api/js?v=beta
