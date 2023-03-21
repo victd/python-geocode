@@ -19,7 +19,7 @@ from datetime import datetime
 #         &key=YOUR_API_KEY&callback=initMap">
 # </script>
 
-# deployment from Castle is working around the clock to implement the hotfix
+# deployment from Castle or OCS is working around the clock to implement the hotfix
 # want to steer clear of American Thanksgiving
 # connection libraries for python sql
 
