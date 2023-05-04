@@ -7,6 +7,7 @@ from datetime import datetime
 # maps issue or feature not available
 
 # implement GeoTab integration
+# have a container for Kubernetes, containerized map application
 
 # the following code chooses which channel of the API to use: beta or weekly, quarterly... etc
 # <script async
