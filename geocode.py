@@ -8,6 +8,7 @@ from datetime import datetime
 
 # implement GeoTab integration
 # have a container for Kubernetes, containerized map application
+# inquire GeoTab extensible dev interface
 
 # the following code chooses which channel of the API to use: beta or weekly, quarterly... etc
 # <script async
