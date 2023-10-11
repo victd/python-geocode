@@ -4,7 +4,7 @@ from datetime import datetime
 
 # just a note, for looking up directions the maps only consider commercial vehicles 
 # and no provision is made of yet for low bridge restrictions under 13 feet or 11 1/2 feet, a google 
-# maps issue or feature not available, mute suppression button, announce red light cam, weather app, firewall
+# maps issue or feature not available, mute suppression button, announce red light cam, speed cam zones, weather app, firewall
 
 # implement GeoTab integration
 # have a container for Kubernetes, containerized map application
