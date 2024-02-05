@@ -31,7 +31,7 @@ from datetime import datetime
 # when doing Route Modelling, the webView2 runs 6 instances with 1 instance of Trux open
 # will need to open a ticket concerning performance, no response but many users reporting the same issue
 # same with Google maps after the upgrade, menu minimizes in portrait but not in landscape
-# if tablets connect to webserver, ensure the site can be reached on wifi without blockages (firewall) 
+# if tablets connect to webserver, ensure the site can be reached on wifi without blockages (firewall) test
 
 gmaps = googlemaps.Client(key='Add Your Key here')
 
